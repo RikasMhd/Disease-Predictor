@@ -7,7 +7,6 @@ with a confidence score and the top 3 possibilities.
  
 ## Demo
 - Live app: https://disease-predictor-dbnvbtijjwoxfducadjsfy.streamlit.app/
-- Screenshot: ![image1](image.png)  ![image2](image-1.png)
  
 ## Dataset
 - 82 patient records, 9 diseases: Parkinson's, Diabetes, Lupus, Cardiovascular Disease,
