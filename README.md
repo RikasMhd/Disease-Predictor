@@ -6,8 +6,8 @@ with a confidence score and the top 3 possibilities.
 > ⚠️ **Disclaimer:** Educational project on a small dataset. Not a medical diagnostic tool.
  
 ## Demo
-- Live app: _add your Streamlit link here_
-- Screenshot: _add app screenshot here_
+- Live app: https://disease-predictor-dbnvbtijjwoxfducadjsfy.streamlit.app/
+- Screenshot: ![image1](image.png)  ![image2](image-1.png)
  
 ## Dataset
 - 82 patient records, 9 diseases: Parkinson's, Diabetes, Lupus, Cardiovascular Disease,
